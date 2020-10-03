@@ -5,7 +5,7 @@ admins, who had many tasks to keep track of during any given day.  The company
 has since disbanded for a number of reasons, and the owner has kindly allowed me 
 to release the codebase.  It is by no means complete, I was hoping someone would 
 want to take up the batton and help me finish it.  It's not very configurable at
-present (ito of logos etc), but there isn't too much to conifgure yet, so that
+present (its of logos etc), but there isn't too much to conifgure yet, so that
 shouldn't be too hard to add.
 
 As it stands it's functional from the input side... users can log efforts in a 
@@ -75,3 +75,4 @@ timer is still "running".
 
 If you have any questions, or would like a fork, please dont hesitate to contact 
 me, I will be of as much help as I can.
+Thank You
